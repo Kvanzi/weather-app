@@ -15,8 +15,8 @@ Automatic city detection, city search through search.
 **``• wind speed``**
 
 ## Statistics
-![GitHub repo size](https://img.shields.io/github/repo-size/Kvanzi/Kvanzi-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/Kvanzi/Kvanzi-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Kvanzi/weather-app)
+![GitHub stars](https://img.shields.io/github/stars/Kvanzi/weather-app?style=social)
 
 ## Demo
 
